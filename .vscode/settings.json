@@ -1,0 +1,5 @@
+{
+    "solidity.defaultCompiler": "localNodeModule",
+   "solidity.packageDefaultDependenciesDirectory": "hardhat-tutorial/node_modules"
+   // "solidity.packageDefaultDependenciesContractsDirectory": ""
+}
